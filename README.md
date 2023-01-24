@@ -1,3 +1,4 @@
 # chatPylarAI
 chatPylarAI
-<a href=\"https://colab.research.google.com/github/miguelgargallo/chatPylarAI/blob/main/chatPylarAI.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1odswULyZ_f1Mk48DSNRwdSd4HCw_Ebl8?usp=sharing)
