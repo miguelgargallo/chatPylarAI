@@ -1,0 +1,140 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "input": [
+                "hola",
+                "buenas",
+                "hey",
+                "morning",
+                "afternoon",
+                "evening"
+            ],
+            "responses": [
+                "Hola! En que puedo ayudarte?",
+                "Hey, en que puedo ayudarte?",
+                "Que tal! En que puedo ayudarte?",
+                "Buenas! En que puedo ayudarte?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "input": [
+                "adios",
+                "cio",
+                "bye",
+                "nos vemos"
+            ],
+            "responses": [
+                "Adios, nos vemos pronto!",
+                "Que tengas un buen dia!",
+                "Espero haberte podido ayudar, nos vemos pronto!"
+            ]
+        },
+        {
+            "tag": "help",
+            "input": [
+                "help",
+                "ayuda",
+                "no se",
+                "nose"
+            ],
+            "responses": [
+                "Claro, en que puedo ayudarte?",
+                "Desde luego, ¿en qué puedo ayudarte?",
+                "Por supuesto, ¿en qué puedo ayudarte?"
+            ]
+        },
+        {
+            "tag": "campaign",
+            "input": [
+                "campaña",
+                "horario",
+                "fecha",
+                "hora",
+                "dias",
+                "día"
+            ],
+            "responses": [
+                "La campaña se realiza los dias 15 y 16 de noviembre",
+                "Entre las 9am y 5pm del 15 y 16 de noviembre"
+            ]
+        },
+        {
+            "tag": "location",
+            "input": [
+                "donde",
+                "localizacion",
+                "ubicacion",
+                "ubicación",
+                "localización",
+                "no se donde es el evento",
+                "no se donde es la campaña",
+                "no se donde es",
+                "nose donde es el evento",
+                "nose donde es la campaña",
+                "nose donde es"
+            ],
+            "responses": [
+                "El lugar de la campaña es en el Bar Manolo, en el centro de la ciudad",
+                "En Madrid, como bien indica en el evento es en el Bar Manolo"
+            ]
+        },
+        {
+            "tag": "requirements",
+            "input": [
+                "requisitos",
+                "requisito",
+                "necesito",
+                "necesito requisitos",
+                "necesito requisito",
+                "necesito saber requisitos",
+                "que se pide",
+                "que se necesita",
+                "que se necesita para participar",
+                "que se necesita para participar en la campaña",
+                "como he de ir al evento",
+                "como he de ir a la campaña",
+                "como ir",
+                "como ir al evento",
+                "como ir a la campaña",
+                "como ir a la campaña de donacion"
+            ],
+            "responses": [
+                "Buscamos gente rubia, de entre 26 y 32, de metro 1,75 y 1,80, con ojos azules y pelo largo",
+                "Entre nuestros requisitos se encuentran ser rubio, de entre 26 y 32, de metro 1,75 y 1,80, con ojos azules y pelo largo"
+            ]
+        },
+        {
+            "tag": "llegada",
+            "input": [
+                "como llego",
+                "perdido",
+                "inidicaciones",
+                "como llegar",
+                "lugar",
+                "llegar",
+                "como llegar al lugar",
+                "como llegar al evento",
+                "como llegar a la campaña",
+                "nose como llegar",
+                "no se como llegar",
+                "no se como llegar al lugar",
+                "no se como llegar al evento",
+                "no se como llegar a la campaña",
+                "nose como llegar al lugar",
+                "nose como llegar al evento",
+                "nose como llegar a la campaña",
+                "me he perdido",
+                "me he perdido en el camino",
+                "me he perdido en el camino al lugar",
+                "me he perdido en el camino al evento",
+                "me he perdido en el camino a la campaña"
+            ],
+            "responses": [
+                "Para llegar hasta el lugar de la campaña, puedes coger el metro hasta la estación de Sol y caminar 5 minutos hasta el Bar Manolo",
+                "Ademas del metro se puede llegar en coche, en taxi o en autobus"
+            ]
+        }
+    ]
+}
